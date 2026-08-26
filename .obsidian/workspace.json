@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "c5433df07a9f5d73",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae00ba6e05af9e21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64e657bff1db5948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/k8s/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "b34ddb4da0f22073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practical/Java/File.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File"
+            }
+          },
+          {
+            "id": "4297dd588d7b903a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practical/Java/Network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network"
+            }
+          },
+          {
+            "id": "53c3262b90a0e5a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practical/Java/Database.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database"
+            }
+          },
+          {
+            "id": "9a8b6e8aea3a6e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practical/Go/Code snippet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Code snippet"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c1e43768a8d0883",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a9c9d80d595222",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3db664b187a17973",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ef1806c6e5977a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "26a0f8d85ccb8bc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f20b449db767a304",
+    "type": "split",
+    "children": [
+      {
+        "id": "9069d16aee17ac78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f566d6d7b1214e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DevOps/docker/swarm/Docker Swarm Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Docker Swarm Commands"
+            }
+          },
+          {
+            "id": "d264aea8eabb5967",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fintech theory/Wallet Infra/Modern Treasury/Ledger/Ledger Quickstart/Cards.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cards"
+            }
+          },
+          {
+            "id": "b6967a576bea53b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c83c81531e24a031",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2df5ae1e95012504",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fintech theory/Wallet Infra/Modern Treasury/Ledger/Ledger Quickstart/Cards.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cards"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3db664b187a17973",
+  "lastOpenFiles": [
+    "Practical/Pro tip command/pro tip command.md",
+    "Practical/Go/Code snippet.md",
+    "Theorical",
+    "Practical",
+    "Practical/Java/Command Tools.md",
+    "Practical/Java/Database.md",
+    "Practical/Java/Network.md",
+    "Practical/Java/File.md",
+    "Practical/Java/Logging.md",
+    "Practical/Java/Stream.md",
+    "Practical/Java/Reflection.md",
+    "Practical/Java/Concurrency.md",
+    "Practical/Java/Annotation.md",
+    "Practical/Java/Inner class & Anonymous class.md",
+    "Practical/Java/Generics.md",
+    "Practical/Java/Fundamental of Java.md",
+    "Practical/Java/Collection.md",
+    "Practical/Git/Git Commands.md",
+    "Practical/Java/lambda & functional-programming.md",
+    "Practical/Java/OOP.md",
+    "Theorical/Fintech theory/Wallet Infra/Modern Treasury/Ledger/Ledger Quickstart/Bill Payments.md",
+    "Practical/DevOps/docker/swarm/Docker Swarm Commands.md",
+    "Theorical/DDIA/Chapter 1.md",
+    "Practical/Pro tip command",
+    "Practical/DevOps/k8s/Untitled.md",
+    "Theorical/DDIA",
+    "Theorical/Fintech theory/Wallet Infra/Modern Treasury/Ledger/Ledger Quickstart/Cards.md",
+    "Practical/Go",
+    "Practical/SpringBoot",
+    "Practical/Java",
+    "Practical/Git",
+    "Practical/DevOps/ansible",
+    "Practical/DevOps/CICD",
+    "Theorical/Fintech theory/Wallet Infra/Modern Treasury/Ledger/Ledger Quickstart/Marketplace.md",
+    "Theorical/Fintech theory/Wallet Infra/Modern Treasury/Ledger/Ledger Quickstart/Digital wallet.md",
+    "Theorical/Fintech theory/Wallet Infra/Modern Treasury/Ledger/Ledger Overview/Ledgers Guarantees.md"
+  ]
+}
