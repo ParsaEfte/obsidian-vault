@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64e657bff1db5948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/k8s/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "b34ddb4da0f22073",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Practical/Java/File.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "File"
             }
-          },
-          {
-            "id": "4297dd588d7b903a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practical/Java/Network.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network"
-            }
-          },
-          {
-            "id": "53c3262b90a0e5a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practical/Java/Database.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Database"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,16 +196,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53c3262b90a0e5a3",
+  "active": "b34ddb4da0f22073",
   "lastOpenFiles": [
+    "Practical/Java/Network.md",
+    "Practical/Java/File.md",
+    "Practical/Java/Database.md",
     "Practical/Pro tip command/pro tip command.md",
     "Practical/Go/Code snippet.md",
     "Theorical",
     "Practical",
     "Practical/Java/Command Tools.md",
-    "Practical/Java/Database.md",
-    "Practical/Java/Network.md",
-    "Practical/Java/File.md",
     "Practical/Java/Logging.md",
     "Practical/Java/Stream.md",
     "Practical/Java/Reflection.md",
